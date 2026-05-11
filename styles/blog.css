@@ -1,5 +1,6 @@
 div{
     background-color: coral;
     border: 10px solid blueviolet;
-    margin-top: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
